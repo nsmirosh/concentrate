@@ -11,3 +11,8 @@ A simple Python script to block all distracting websites and also Telegram. Curr
 - Make it executable by running `chmod +x /usr/local/bin/concentrate.py`
 - Run using `sudo concentrate.py` from anywhere :) 
 
+
+### Plans for the future: 
+- Add a pomodoro timer, and do not allow to disable the script until the pomodoro finishes
+  
+

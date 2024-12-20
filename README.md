@@ -1,6 +1,8 @@
 # Concentrate.py
 A simple Python script to block all distracting websites and also Telegram. Currently only supports `MacOS`
 
+## To add your own websites to block: 
+- Simply modify the `websites` array within the `concentrate.py` script by adding the websites you want to block. 
 
 ### To run
 - Install [python3]([https://markdownlivepreview.com/](https://www.python.org/downloads/macos/)).

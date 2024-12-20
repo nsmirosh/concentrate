@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import tkinter as tk
 from tkinter import messagebox
 import os
@@ -16,7 +18,11 @@ websites = [
     "instagram.com",
     "www.instagram.com",
     "youtube.com",
-    "www.youtube.com"
+    "www.youtube.com", 
+    "www.online-go.com", 
+    "online-go.com",
+    "gomagic.org", 
+    "www.gomagic.org"
 ]
 
 hosts_file = "/etc/hosts"

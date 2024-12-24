@@ -19,5 +19,5 @@ A simple Python script to block all distracting websites and also Telegram. Curr
   
 
 # In plans: 
-
+- Make it an application that can be pinned in the list in MacOs
 - Super-focused mode - Blocks **ALL** websites - except those that are in the list. 

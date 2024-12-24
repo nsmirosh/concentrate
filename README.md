@@ -18,3 +18,6 @@ A simple Python script to block all distracting websites and also Telegram. Curr
 - Add a pomodoro timer, and do not allow to disable the script until the pomodoro finishes
   
 
+# In plans: 
+
+- Super-focused mode - Blocks **ALL** websites - except those that are in the list. 
